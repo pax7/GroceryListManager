@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GroceryListManager</string>
+    <string name="action_settings">Fall 2016 Team 59</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="select_all">SELECT ALL</string>
+    <string name="deselect_all">DESELECT ALL</string>
+    <string name="remove">Remove</string>
+    <string name="trash">trash</string>
+    <string name="back">back</string>
+    <string name="menu">Menu</string>
+    <string name="select_items">Select Items</string>
+    <string name="select_type">Select Type</string>
+    <string name="clear_selection">Clear Selection</string>
+    <string name="create">Add</string>
+    <string name="delete_all_lists">Delete All Lists</string>
+    <string name="inspect_db">Inspect Database</string>
+    <string name="remove_selection">Remove Selection</string>
+    <string name="reset_db">Reset Database</string>
+    <string name="save">Save Database Externally</string>
+    <string name="share">share</string>
+    <string name="load_test_db">Load Test Database</string>
+</resources>
